@@ -3,3 +3,25 @@
 ################################################################################
 
 /.vs/AzureDevOpsTraining/v16/Server/sqlite3
+bin/Debug/netcoreapp3.1/AzureDevOpsTraining.dll
+bin/Debug/netcoreapp3.1/AzureDevOpsTraining.pdb
+bin/Debug/netcoreapp3.1/AzureDevOpsTraining.Views.dll
+bin/Debug/netcoreapp3.1/AzureDevOpsTraining.Views.pdb
+obj/Debug/netcoreapp3.1/AzureDevOpsTraining.AssemblyInfo.cs
+obj/Debug/netcoreapp3.1/AzureDevOpsTraining.csproj.FileListAbsolute.txt
+obj/Debug/netcoreapp3.1/AzureDevOpsTraining.csprojAssemblyReference.cache
+obj/Debug/netcoreapp3.1/AzureDevOpsTraining.dll
+obj/Debug/netcoreapp3.1/AzureDevOpsTraining.pdb
+obj/Debug/netcoreapp3.1/AzureDevOpsTraining.RazorAssemblyInfo.cs
+obj/Debug/netcoreapp3.1/AzureDevOpsTraining.RazorTargetAssemblyInfo.cs
+obj/Debug/netcoreapp3.1/AzureDevOpsTraining.Views.dll
+obj/Debug/netcoreapp3.1/AzureDevOpsTraining.Views.pdb
+obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+bin/Debug/netcoreapp3.1/AzureDevOpsTraining.dll
+bin/Debug/netcoreapp3.1/AzureDevOpsTraining.dll
+bin/Debug/netcoreapp3.1/AzureDevOpsTraining.dll
+bin/Debug/netcoreapp3.1/AzureDevOpsTraining.dll
+bin/Debug/netcoreapp3.1/AzureDevOpsTraining.dll
+bin/Debug/netcoreapp3.1/AzureDevOpsTraining.pdb
+bin/Debug/netcoreapp3.1/AzureDevOpsTraining.Views.dll

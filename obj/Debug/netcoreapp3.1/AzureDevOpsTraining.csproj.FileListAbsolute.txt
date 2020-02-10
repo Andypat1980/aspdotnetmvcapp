@@ -9,7 +9,6 @@ C:\Users\anpatel\Documents\Anand Patel\FSUS Swarm Engagements\NT\Azure DevOps Tr
 C:\Users\anpatel\Documents\Anand Patel\FSUS Swarm Engagements\NT\Azure DevOps Training\simple-dotnet-app\AzureDevOpsTraining\bin\Debug\netcoreapp3.1\AzureDevOpsTraining.pdb
 C:\Users\anpatel\Documents\Anand Patel\FSUS Swarm Engagements\NT\Azure DevOps Training\simple-dotnet-app\AzureDevOpsTraining\bin\Debug\netcoreapp3.1\AzureDevOpsTraining.Views.dll
 C:\Users\anpatel\Documents\Anand Patel\FSUS Swarm Engagements\NT\Azure DevOps Training\simple-dotnet-app\AzureDevOpsTraining\bin\Debug\netcoreapp3.1\AzureDevOpsTraining.Views.pdb
-C:\Users\anpatel\Documents\Anand Patel\FSUS Swarm Engagements\NT\Azure DevOps Training\simple-dotnet-app\AzureDevOpsTraining\obj\Debug\netcoreapp3.1\AzureDevOpsTraining.csprojAssemblyReference.cache
 C:\Users\anpatel\Documents\Anand Patel\FSUS Swarm Engagements\NT\Azure DevOps Training\simple-dotnet-app\AzureDevOpsTraining\obj\Debug\netcoreapp3.1\staticwebassets\AzureDevOpsTraining.StaticWebAssets.Manifest.cache
 C:\Users\anpatel\Documents\Anand Patel\FSUS Swarm Engagements\NT\Azure DevOps Training\simple-dotnet-app\AzureDevOpsTraining\obj\Debug\netcoreapp3.1\staticwebassets\AzureDevOpsTraining.StaticWebAssets.xml
 C:\Users\anpatel\Documents\Anand Patel\FSUS Swarm Engagements\NT\Azure DevOps Training\simple-dotnet-app\AzureDevOpsTraining\obj\Debug\netcoreapp3.1\AzureDevOpsTraining.MvcApplicationPartsAssemblyInfo.cache
